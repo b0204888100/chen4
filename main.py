@@ -9,7 +9,7 @@ from flask import Flask
 
 app = Flask(__name__)
 
-INSTANCE_NAME = 'instance-1'
+INSTANCE_NAME = 'instance-1-f1fa5f96'
 INSTANCE_ZONE = 'asia-east1-a'
 PROJECT = 'esoteric-cider-165206'
 
